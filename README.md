@@ -1,16 +1,16 @@
-# Bem-vindo ao meu Perfil GitHub
+<h1>Olá ! Eu sou o Patrick Rodrigues 🚀</h1>  
+- 💻 Estudante de ADS - 3° Semestre<br>
+- 🏢 São Paulo Tech School<br>
+- ✉ Contato: patrick.rodrigues@sptech.school<br><br><br>
 
-Olá! Sou Patrick De Lima Rodrigues, um entusiasta de tecnologia e desenvolvedor apaixonado por aprender e criar. Este é o meu espaço para compartilhar projetos, colaborar com outros desenvolvedores e contribuir para a comunidade open-source.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5589d6&size=36&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Patrick+Rodrigues;I'm+19+years+old;I'm+from+São+Paulo,+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)<br>
 
-## Sobre Mim
+  ![Patrick](https://github-readme-stats.vercel.app/api?username=PatrickRodrigues19&show_icons=true&theme=transparent)
+  
+## 
+ <p align="center"><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,git,bash,figma,java,vscode,linux,powershell" />
+  </a>
 
-- **Nome:** Seu Nome
-- **Profissão:** QA - Quality Assurence
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?PatrickRodrigues19&show_icons=true&theme=radical)
-
-## Como me Encontrar
-
-- **LinkedIn:** [Seu LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/patrick-de-lima-rodrigues-1b7134201/))
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
